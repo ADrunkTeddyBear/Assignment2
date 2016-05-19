@@ -1,0 +1,13 @@
+c:\users\nikhe\documents\visual studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+c:\users\nikhe\documents\visual studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+c:\users\nikhe\documents\visual studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+c:\users\nikhe\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+c:\users\nikhe\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+c:\users\nikhe\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+c:\users\nikhe\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+c:\users\nikhe\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.frmCaptureStock.resources
+c:\users\nikhe\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.frmDisplayreport.resources
+c:\users\nikhe\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.frmMakeOrder.resources
+c:\users\nikhe\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.frmSelectionPage.resources
+C:\Users\nikhe\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.frmTermsAndConditions.resources
+C:\Users\nikhe\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
